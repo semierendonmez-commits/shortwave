@@ -89,7 +89,7 @@ press K3 to bookmark the current frequency. bookmarks appear as small marks belo
 ## install
 
 ```
-;install https://github.com/semi/shortwave
+;install https://github.com/semierendonmez-commits/shortwave
 ```
 
 ## architecture
